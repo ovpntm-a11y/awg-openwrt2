@@ -11,7 +11,7 @@ jobs:
     strategy:
       matrix:
         build_env:
-          - tag: "v22.03.2"
+          - tag: "22.03.2"
             pkgarch: mipsel_24kc
             target: ramips
             subtarget: mt7621
